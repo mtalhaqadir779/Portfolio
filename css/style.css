@@ -1,0 +1,38 @@
+body {
+    background-color: #ddddff;
+}
+.Screen-Height {
+    height: 100vh;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+
+#Home {
+    color: #ddddff;
+    background-image: url("../images/Bg2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+#Services {
+    padding: 2%;
+}
+
+#Previous-Work {
+    padding: 2%;
+}
+
+#My-Moto {
+    padding: 2%;
+}
+
+#Contact {
+    padding: 2%;
+}
