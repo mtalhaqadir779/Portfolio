@@ -55,12 +55,9 @@ h3.Section-Heading {
     background-image: url("../images/Bg2.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
+    background-image: fill;
     text-align: center;
     font-family: 'MuseoModerno', cursive;
-}
-
-#Home h1 {
-
 }
 
 #Services {
