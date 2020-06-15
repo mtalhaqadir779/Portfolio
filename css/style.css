@@ -78,7 +78,7 @@ h3.Section-Heading {
 
 @media only screen and (max-width: 768px){
     .Screen-Height {
-        height: 50vh;
+        height: auto;
     }
 }
 
