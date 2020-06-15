@@ -75,3 +75,15 @@ h3.Section-Heading {
 #Contact {
     padding: 2%;
 }
+
+@media only screen and (max-width: 768px){
+    .Screen-Height {
+        height: 50vh;
+    }
+}
+
+@media only screen and (max-width: 576px){
+    h1{
+        font-size: 30px;
+    }
+}
