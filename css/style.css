@@ -2,8 +2,14 @@ body {
     background-color: #ddddff;
 }
 
-header {
+.Sticky {
     position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.Nav-Scrolled {
+    background-color: #121299;
 }
 
 .float-left {
@@ -14,12 +20,21 @@ header {
     clear: both;
 }
 
-.clear{
+.clear {
     clear: both;
 }
 
 .Screen-Height {
     height: 100vh;
+}
+
+h3.Section-Heading {
+    text-align: center;
+    padding: 2%;
+    margin: 2%;
+    border: #121299 solid;
+    border-radius: 1rem 0rem 1rem 0rem;
+    border-collapse: collapse;
 }
 
 .fa {
@@ -29,13 +44,23 @@ header {
     text-align: center;
     text-decoration: none;
     margin: 5px 2px;
-  }
+}
+
+.Half-Screen{
+    height: 25vh;
+}
 
 #Home {
     color: #ddddff;
     background-image: url("../images/Bg2.jpg");
     background-repeat: no-repeat;
     background-size: 100%;
+    text-align: center;
+    font-family: 'MuseoModerno', cursive;
+}
+
+#Home h1 {
+
 }
 
 #Services {
