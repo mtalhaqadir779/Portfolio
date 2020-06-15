@@ -1,6 +1,23 @@
 body {
     background-color: #ddddff;
 }
+
+header {
+    position: fixed;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-left::after {
+    clear: both;
+}
+
+.clear{
+    clear: both;
+}
+
 .Screen-Height {
     height: 100vh;
 }
